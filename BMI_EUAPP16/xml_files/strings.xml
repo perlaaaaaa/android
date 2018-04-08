@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Erasmus  BMI</string>
+    <string name="button_about">About</string>
+    <string name="button_bmi_calculator">BMI CALCULATOR</string>
+    <string name="hint_weight">Put your weight [kg]</string>
+    <string name="hint_height">Put your height [cm]</string>
+    <string name="overweight_message">Overweight :(</string>
+    <string name="underweight_message">Underweight :(</string>
+    <string name="right_weight_message">Normal Range :)</string>
+    <string name="button_calculate">CALCULATE</string>
+</resources>
